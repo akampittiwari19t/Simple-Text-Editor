@@ -1,24 +1,24 @@
 # 📝 Simple Text Editor
 
-A simple desktop-based **Text Editor** built using **Python** and **Tkinter**. This application provides a clean graphical interface that allows users to create, edit, open, and save text files with ease.
+A simple desktop-based **Text Editor** built using **Python** and **Tkinter**. It provides a clean graphical user interface to create, edit, open, and save text files.
 
 ---
 
 ## 📌 Features
 
-* 📄 Create a new text file
-* 📂 Open existing text files
-* 💾 Save text files
-* ✍️ Edit text content
-* 🖥️ Simple and user-friendly interface
-* ⚡ Lightweight and fast
+- 📄 Create a new text file
+- 📂 Open existing text files
+- 💾 Save text files
+- ✍️ Edit text easily
+- 🖥️ Simple and user-friendly GUI
+- ⚡ Lightweight and fast
 
 ---
 
 ## 🛠️ Technologies Used
 
-* Python
-* Tkinter
+- Python
+- Tkinter
 
 ---
 
@@ -26,10 +26,9 @@ A simple desktop-based **Text Editor** built using **Python** and **Tkinter**. T
 
 ```text
 Simple-Text-Editor/
-│── text_editor.py
+│── main.py
 │── README.md
-└── screenshots/
-    └── editor.png
+└── screenshot.png
 ```
 
 ---
@@ -39,10 +38,10 @@ Simple-Text-Editor/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Simple-Text-Editor.git
+git clone https://github.com/akampittiwari19t/Simple-Text-Editor.git
 ```
 
-### 2. Navigate to the project folder
+### 2. Go to the project folder
 
 ```bash
 cd Simple-Text-Editor
@@ -51,30 +50,25 @@ cd Simple-Text-Editor
 ### 3. Run the application
 
 ```bash
-python text_editor.py
+python main.py
 ```
 
 ---
 
 ## 📸 Screenshot
 
-> Replace the image below with your own application screenshot.
-
-```md
-![Simple Text Editor](screenshot.png)
-```
+![Simple Text Editor](./screenshot.png)
 
 ---
 
 ## 🎯 Future Improvements
 
-* Undo & Redo
-* Find & Replace
-* Font size customization
-* Font style selection
-* Dark Mode
-* Word Count
-* Auto Save
+- Undo & Redo
+- Find & Replace
+- Font size customization
+- Font style selection
+- Dark Mode
+- Word Count
 
 ---
 
@@ -82,10 +76,8 @@ python text_editor.py
 
 **Akampit Deo Tiwari**
 
-GitHub: https://github.com/your-username
+
 
 ---
 
-## ⭐ Support
-
-If you found this project useful, consider giving it a **⭐ Star** on GitHub.
+⭐ If you found this project useful, don't forget to **Star ⭐** this repository.
